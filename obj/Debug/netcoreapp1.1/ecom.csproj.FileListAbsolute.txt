@@ -1,0 +1,16 @@
+/home/nate/Documents/cddj/ch8/EF/ecom/bin/Debug/netcoreapp1.1/ecom.deps.json
+/home/nate/Documents/cddj/ch8/EF/ecom/bin/Debug/netcoreapp1.1/ecom.runtimeconfig.json
+/home/nate/Documents/cddj/ch8/EF/ecom/bin/Debug/netcoreapp1.1/ecom.runtimeconfig.dev.json
+/home/nate/Documents/cddj/ch8/EF/ecom/bin/Debug/netcoreapp1.1/ecom.dll
+/home/nate/Documents/cddj/ch8/EF/ecom/bin/Debug/netcoreapp1.1/ecom.pdb
+/home/nate/Documents/cddj/ch8/EF/ecom/obj/Debug/netcoreapp1.1/ecom.AssemblyInfo.cs
+/home/nate/Documents/cddj/ch8/EF/ecom/obj/Debug/netcoreapp1.1/ecom.dll
+/home/nate/Documents/cddj/ch8/EF/ecom/obj/Debug/netcoreapp1.1/ecom.pdb
+/Users/Vijay/Downloads/cs_ecommerce/bin/Debug/netcoreapp1.1/ecom.deps.json
+/Users/Vijay/Downloads/cs_ecommerce/bin/Debug/netcoreapp1.1/ecom.runtimeconfig.json
+/Users/Vijay/Downloads/cs_ecommerce/bin/Debug/netcoreapp1.1/ecom.runtimeconfig.dev.json
+/Users/Vijay/Downloads/cs_ecommerce/bin/Debug/netcoreapp1.1/ecom.dll
+/Users/Vijay/Downloads/cs_ecommerce/bin/Debug/netcoreapp1.1/ecom.pdb
+/Users/Vijay/Downloads/cs_ecommerce/obj/Debug/netcoreapp1.1/ecom.AssemblyInfo.cs
+/Users/Vijay/Downloads/cs_ecommerce/obj/Debug/netcoreapp1.1/ecom.dll
+/Users/Vijay/Downloads/cs_ecommerce/obj/Debug/netcoreapp1.1/ecom.pdb
